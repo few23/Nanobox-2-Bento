@@ -4,7 +4,7 @@ Put the script in the same folder as where your Input folder of .nnf  or .nnl fi
 
 *Do not put it INSIDE the Input folder*
 
-The script will generate an output folder called UserPatches with a Wavetable or Granular subfolder depending on which script you run
+The script will generate an output folder called UserPatches with a Wavetable or Granular subfolder
 
 where the converted patch folders containing the .xml file and their related .wav files will be created
 
